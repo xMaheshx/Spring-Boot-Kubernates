@@ -33,3 +33,7 @@ build/
 /.mvn/
 /mvnw
 /mvnw.cmd
+
+
+### Terraform
+terraform/.terraform
